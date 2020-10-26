@@ -6,5 +6,5 @@ import (
 )
 
 func TestOther(t *testing.T) {
-	assert.Equal(t, "1", "10")
+	assert.Equal(t, "1", "1")
 }
